@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import CardComponent from './components/CardComponent';
+import React from 'react';
 
 function App() {
   return (
